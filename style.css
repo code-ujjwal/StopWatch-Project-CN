@@ -18,7 +18,7 @@
 	box-shadow: 3px 3px 10px black;
 	padding: 15px;
 	color: cyan;
-	background: rgb(112, 16, 156);
+	background: rgb(59, 1, 86);
 	border-radius: 10px;
 	margin-bottom: 20px;
 }
@@ -30,14 +30,14 @@
 
 button{
 	padding: 10px;
-	background-color: rgb(46, 80, 117);
+	background-color: rgb(10, 52, 96);
 	border: none;
 	border-radius: 10px;
 	color: rgb(146, 231, 243);/*rgb(100, 190, 196)*/;
-	font-size: 25px;
+	font-size: 30px;
 	margin: 10px;
 	width: 100px;
-	box-shadow: 4px 4px 2px rgb(60, 157, 163);
+	box-shadow: 4px 4px 2px rgb(6, 164, 172);
 	transition: all 0.5s;
 }
 
